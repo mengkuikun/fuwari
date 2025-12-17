@@ -219,7 +219,7 @@ masquerade:
 
 ## Cloudflare 优选域名
 
-二叉树树自用： fenliu.072103.xyz
+夢酷自用： fenliu.072103.xyz
 
 ![](../assets/images/0cfff651-0590-4700-81f4-79c9e576c38d.webp)
 

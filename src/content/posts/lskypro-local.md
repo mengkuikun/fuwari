@@ -16,7 +16,7 @@ lang: ''
 
 - http://r2.072103.xyz/2xnzlskypro223.zpaq 
 - [OneDrive - 2xnzlskypro223.zpaq](https://acofork-my.sharepoint.com/:u:/g/personal/af_acofork_onmicrosoft_com/Eenhpe5Kt0RLopi_n6Ud-qMBh6fmDsXKaB8csLIVLu-FEQ?e=Z6QLGn)
-- 密码： 2xnz二叉树树
+- 密码： 2xnz夢酷
 
 zpaq可以使用 [Bandizip 官方网站 - 免费压缩软件下载 (Windows)](https://www.bandisoft.com/bandizip/) 进行解压，旧版不支持
 

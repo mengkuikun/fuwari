@@ -146,7 +146,7 @@ title: Fuwari静态博客搭建教程
      
      export const profileConfig: ProfileConfig = {
        avatar: 'https://eo-r2.2x.nz/myblog/img/111.webp',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-       name: '二叉树树',
+      name: '夢酷',
        bio: 'Protect What You Love./爱你所爱！',
        links: [
          // {

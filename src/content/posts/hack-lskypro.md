@@ -15,7 +15,7 @@ lang: ''
 
 # 下载包体
 
-兰空图床Pro付费版包： https://r2.072103.xyz/lp223.zpaq （解压密码：2x.nz二叉树树）
+兰空图床Pro付费版包： https://r2.072103.xyz/lp223.zpaq （解压密码：2x.nz夢酷）
 
 # 配置环境
 
