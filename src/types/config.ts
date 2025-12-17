@@ -39,6 +39,7 @@ export type SiteConfig = {
 
 	favicon: Favicon[];
 	officialSites?: (string | { url: string; alias: string })[];
+	hideSponsorsNav?: boolean;
 };
 
 export type Favicon = {

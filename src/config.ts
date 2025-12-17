@@ -59,6 +59,8 @@ export const siteConfig: SiteConfig = {
 	officialSites: [
 		{ url: "https://250031.xyz", alias: "250031" },
 	],
+	// 是否在导航栏和菜单中隐藏“赞助”链接
+	hideSponsorsNav: true,
 };
 
 export const navBarConfig: NavBarConfig = {
